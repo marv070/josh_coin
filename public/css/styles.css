@@ -1,0 +1,27 @@
+body
+{
+    background-color: #0fd1d1e5;
+    background-size: cover;
+
+}
+div
+{
+    background-color: rgb(247, 4, 146);
+}
+.billy
+{
+    background-color: rgb(26, 241, 62);
+}
+#bob
+{
+    background-color: rgb(248, 248, 7);
+}
+.coinbox
+{
+    width: 300px;
+    height: 30px;
+}
+background
+{
+    background-size: auto auto;
+}
